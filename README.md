@@ -22,9 +22,13 @@ I'm a passionate self-taught software developer from Algeria, with a background 
 I spent 2.5 years in a rigorous self-guided curriculum guided by engineers. My learning path included:
 
 1. **Foundational Problem Solving (C++)**
-   - 400+ solved problems
-   - Mastered data structures (Stacks, Queues, Linked Lists, Trees, Graphs, Hash Tables...)
-
+   - Solved around 300 problems covering basic to intermediate algorithms
+   - Practiced 60+ structured SQL queries
+   - Gained strong understanding of common data structures:
+     - Lists, Dictionaries, Arrays, Queues, Stacks
+     - Exposure to Trees, Graphs, and Hash Tables
+   - Able to apply and adapt core structures in problem-solving
+     
 2. **Transition to C# & Desktop Applications**
    - Built 10+ WinForms apps from scratch
    - Applied object-oriented design, separation of concerns, and clean UI design
