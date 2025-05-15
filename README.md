@@ -17,7 +17,7 @@ I'm a passionate self-taught software developer from Algeria, with a background 
 
 ---
 
-## 🧠 My Learning Journey (2013–2025)
+## 🧠 My Learning Journey (2022–2025)
 
 I spent 2.5 years in a rigorous self-guided curriculum guided by engineers. My learning path included:
 
